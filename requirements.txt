@@ -1,0 +1,10 @@
+langchain==0.1.15
+langchain-cohere==0.1.1
+langchain-community==0.0.32
+langchain-core==0.1.41
+cohere==5.1.8
+flask
+pypdf
+cryptography
+faiss-cpu
+python-dotenv
